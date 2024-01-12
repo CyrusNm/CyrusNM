@@ -16,6 +16,7 @@ I'm fascinated by the potential of data science and machine learning to solve co
 **Passion for code:** I enjoy the elegance and creativity of coding, crafting solutions that are both effective and well-structured.
 
 My GitHub profile is a testament to my ongoing journey in the world of data. You'll find a collection of projects, code snippets, and contributions that showcase my skills and interests. I invite you to explore my work, connect with me, and collaborate on exciting projects!
+
 **Beyond the code:**
 
 In my free time, you can find me tinkering with code, experimenting with new machine learning models, and exploring the latest research in the field. I am also an avid reader and enjoy learning about the history and philosophy of science. This balance between technical pursuits and personal interests fuels my creativity and provides valuable perspectives to my work.
