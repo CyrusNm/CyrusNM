@@ -10,10 +10,12 @@ I'm fascinated by the potential of data science and machine learning to solve co
 
 **Here's what you can expect from me:**
 
- **A thirst for knowledge:** I'm a dedicated learner, constantly seeking out new challenges and opportunities to expand my skillset.
-**Collaborative spirit:** I believe in the power of working together and value open communication and knowledge sharing.
-**Problem-solving mindset:** I approach tasks with a critical eye, analyzing problems from different angles and seeking out efficient solutions.
-**Passion for code:** I enjoy the elegance and creativity of coding, crafting solutions that are both effective and well-structured.
+<ol>
+  <li> **A thirst for knowledge:** I'm a dedicated learner, constantly seeking out new challenges and opportunities to expand my skillset.</li>
+<li>**Collaborative spirit:** I believe in the power of working together and value open communication and knowledge sharing.</li>
+<li>**Problem-solving mindset:** I approach tasks with a critical eye, analyzing problems from different angles and seeking out efficient solutions.</li>
+<li>**Passion for code:** I enjoy the elegance and creativity of coding, crafting solutions that are both effective and well-structured.</li>
+</ol>
 
 My GitHub profile is a testament to my ongoing journey in the world of data. You'll find a collection of projects, code snippets, and contributions that showcase my skills and interests. I invite you to explore my work, connect with me, and collaborate on exciting projects!
 
